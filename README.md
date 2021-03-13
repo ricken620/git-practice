@@ -1,3 +1,3 @@
 # git-practice
 ローカルリポで変更 
-mainブランチで変更（conflict用）
+rebase-practiceブランチで変更（rebase用）
